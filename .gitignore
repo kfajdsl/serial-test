@@ -1,0 +1,9 @@
+.pio
+
+.ccls-cache/
+compile_commands.json
+.ccls
+.clangd
+.cache/
+
+.vscode/

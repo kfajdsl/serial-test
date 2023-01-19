@@ -1,0 +1,7 @@
+﻿---
+BasedOnStyle: LLVM
+AlwaysBreakTemplateDeclarations: 'Yes'
+IndentWidth: '4'
+PointerAlignment: Left
+UseTab: Never
+...
